@@ -1,3 +1,3 @@
-# componentes_flutter
+# Componentes Flutter
 
 App para mostrar los componentes de Flutter
